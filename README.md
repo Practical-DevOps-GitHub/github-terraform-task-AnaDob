@@ -24,7 +24,7 @@ Write Terraform code that configures the GitHub repository according to the foll
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
 
 5. A deploy key named `DEPLOY_KEY` should be added to the repository.
-
+ 
 6. Create a Discord server and enable notifications when a pull request is created.
 
 7. For GitHub actions, perform the following: 
